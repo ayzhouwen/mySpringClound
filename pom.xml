@@ -11,6 +11,8 @@
 
     <modules>
         <module>eurekaService</module>
+        <module>authService</module>
+        <module>ribbon-consumer</module>
     </modules>
 
 
